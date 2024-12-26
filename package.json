@@ -1,0 +1,11 @@
+{
+    "author": "ms0503 <ms0503@outlook.com>",
+    "license": "GFDL-1.3",
+    "name": "zenn",
+    "private": true,
+    "repository": "https://github.com/ms0503/zenn.git",
+    "version": "1.0.0",
+    "devDependencies": {
+        "zenn-cli": "^0.1.158"
+    }
+}
